@@ -84,7 +84,6 @@ function CitiesProvider({ children }) {
   }, []);
 
   async function getCity(id) {
-    console.log(id, currentCity.id);
     if (id === currentCity.id) return;
     try {
       dispatch({ type: "setIsLoading", payload: true });
