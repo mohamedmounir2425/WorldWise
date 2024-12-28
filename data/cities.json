@@ -25,36 +25,12 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "9e32",
       "cityName": "Onda",
       "country": "Spain",
       "emoji": "🇪🇸",
       "date": "2024-12-27T17:26:56.028Z",
       "notes": "testeste",
-      "position": {
-        "lat": 39.99911689760451,
-        "lng": -0.18899917602539062
-      }
-    },
-    {
-      "id": "fd75",
-      "cityName": "Onda",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-12-27T17:27:44.614Z",
-      "notes": "",
       "position": {
         "lat": 39.99911689760451,
         "lng": -0.18899917602539062
@@ -73,18 +49,6 @@
       }
     },
     {
-      "id": "2f9f",
-      "cityName": "Qalyub",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-12-27T17:28:31.372Z",
-      "notes": "tetetete",
-      "position": {
-        "lat": 30.172738502618902,
-        "lng": 31.22949600219727
-      }
-    },
-    {
       "id": "beb5",
       "cityName": "Giza",
       "country": "Egypt",
@@ -97,51 +61,51 @@
       }
     },
     {
-      "id": "9de3",
-      "cityName": "Madinat as Sadat",
+      "id": "c895",
+      "cityName": "Giza",
       "country": "Egypt",
       "emoji": "🇪🇬",
-      "date": "2024-12-27T17:29:29.514Z",
-      "notes": "",
+      "date": "2024-12-28T15:13:14.057Z",
+      "notes": "adfasdf",
       "position": {
-        "lat": 30.429973671025447,
-        "lng": 30.572204589843754
+        "lat": 29.98990070487372,
+        "lng": 30.82896806992967
       }
     },
     {
-      "id": "3225",
-      "cityName": "Ad Dilinjat",
+      "id": "f573",
+      "cityName": "Giza",
       "country": "Egypt",
       "emoji": "🇪🇬",
-      "date": "2024-12-27T17:29:29.514Z",
-      "notes": "testsasdasdf",
-      "position": {
-        "lat": 30.765757671880202,
-        "lng": 30.594177246093754
-      }
-    },
-    {
-      "id": "243a",
-      "cityName": "Qikiqtaaluk Region",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2024-12-27T17:29:29.514Z",
+      "date": "2024-12-28T15:13:14.057Z",
       "notes": "",
       "position": {
-        "lat": 72.82285893957244,
-        "lng": -80.50781250000001
+        "lat": 29.876533435271202,
+        "lng": 30.899475055294293
       }
     },
     {
-      "id": "ef11",
-      "cityName": "Almassora",
+      "id": "e293",
+      "cityName": "Basyun",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-12-28T15:13:14.057Z",
+      "notes": "asdfdasf",
+      "position": {
+        "lat": 31.029958713108847,
+        "lng": 30.771425425455337
+      }
+    },
+    {
+      "id": "d042",
+      "cityName": "Castello de la Plana",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-12-28T14:31:29.916Z",
-      "notes": "fdasfasd",
+      "date": "2024-12-28T15:13:51.668Z",
+      "notes": "",
       "position": {
-        "lat": 39.9838628242688,
-        "lng": -0.12753731909620927
+        "lat": 39.9737452193289,
+        "lng": 0.005781867495140426
       }
     }
   ]
